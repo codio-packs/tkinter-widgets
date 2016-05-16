@@ -1,0 +1,14 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Start widget.py": "python3 widget.py",
+        "Start Current": "python3 {{filename}}"
+  },
+
+// Preview button configuration
+  "preview": {
+        "View Widget Demo": "https://{{domain3000}}/"
+  }
+}
